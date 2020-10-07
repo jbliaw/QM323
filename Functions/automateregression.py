@@ -1,3 +1,8 @@
+import pandas as pd
+import pandas.testing as tm
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+
 class AutomateRegression: 
     
     def automateregression(df): 
